@@ -8,7 +8,7 @@
 <br/>
 
 - 🌱 My name is Emmanuel, I am passionate Frontend Developer, welcome to my GitHub home page
-- ⚡  I’m currently working with Next JS, React JS, Tailwind CSS,  and Framer motion and using them to build fun, creative Web Projects
+- ⚡  I’m currently working with React Native, Next JS, React JS, Tailwind CSS,  and Framer motion and using them to build fun, creative Web Projects
 - 😄  I’m currently learning more of  Typescript and react native
 - 💖  My works are available at <a href="https://kwen.vercel.app">Portfoilio</a>
 
